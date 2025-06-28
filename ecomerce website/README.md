@@ -12,10 +12,6 @@ A fully responsive eCommerce website with maximum compatibility across all mobil
 - Mobile-friendly navigation
 - Testimonials and services section
 
-## Demo
-
-![Desktop Demo](./website-demo-image/desktop.png "Desktop Demo")
-![Mobile Demo](./website-demo-image/mobile.png "Mobile Demo")
 
 ## Getting Started
 
